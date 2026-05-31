@@ -1,0 +1,13 @@
+{
+    "deepseek_api_key": "sk-YOUR_KEY_HERE",
+    "deepseek_model": "deepseek-chat",
+    "deepseek_base_url": "https://api.deepseek.com",
+    "whitelist_contacts": [],
+    "blocklist": [],
+    "auto_reply_prefix": "",
+    "scan_interval": 5,
+    "cooldown_seconds": 60,
+    "auto_send": false,
+    "max_replies_per_session": 20,
+    "system_prompt": "你是友好的微信助手。简洁自然中文回复，每次3句话以内。"
+}
