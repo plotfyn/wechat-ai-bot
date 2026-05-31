@@ -1,0 +1,9 @@
+﻿easyocr
+torch
+torchvision
+openai
+pyautogui
+pillow
+pyperclip
+numpy
+pywin32
