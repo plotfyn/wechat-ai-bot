@@ -1,6 +1,6 @@
 ﻿# 微信 AI 自动回复机器人
 
-基于 pywinauto + DeepSeek 的纯 UI 自动化方案，零 Hook、零注入、零激活码。
+基于 pywinauto + DeepSeek 的纯 UI 自动化方案，零 Hook、零注入。
 
 ## 原理
 
