@@ -20,4 +20,3 @@ copy config.example.json config.json
 ## 安全说明
 
 - 完全不触碰微信协议，仅使用截图 + 模拟输入
-- `config.json` 包含 API Key，已被 .gitignore 排除，不会上传
